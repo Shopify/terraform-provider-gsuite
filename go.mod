@@ -1,4 +1,4 @@
-module github.com/DeviaVir/terraform-provider-gsuite
+module github.com/Shopify/terraform-provider-gsuite
 
 go 1.15
 
