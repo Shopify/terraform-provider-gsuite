@@ -3,6 +3,7 @@ module github.com/Shopify/terraform-provider-gsuite
 go 1.15
 
 require (
+	github.com/Shopify/terraform-provider-gsuite v0.1.55
 	github.com/hashicorp/terraform-plugin-sdk v1.13.0
 	github.com/pkg/errors v0.9.1
 	github.com/sethvargo/go-password v0.1.3
